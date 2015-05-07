@@ -7,3 +7,11 @@ A: When you do not have access to your local files. When working on a joint proj
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A: Git is unaware which changes are significant.
+
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: Forks. To clone a repository in another gitHub account directly to your GitHub account. Your forked clone will be independent of the original, but the forking is recorded and referenced to original.
+
+Clone: Either when creating copy locally or to your local device from GitHub. Clone will be independent from original and not referenced.
+
+Branch. Creating branch of your master branch in your repository.Part of the same repository and can be merged back to original master branch.
